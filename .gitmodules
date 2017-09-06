@@ -1,0 +1,12 @@
+[submodule "libpov"]
+	path = libpov
+	url = https://github.com/benquike/libpov.git
+	branch = ubuntu_emu
+[submodule "libcgc"]
+	path = libcgc
+	url = https://github.com/benquike/libcgc.git
+	branch = ubuntu_emu
+[submodule "cgc-challenge-corpus"]
+	path = cgc-challenge-corpus
+	url = https://github.com/benquike/cgc-challenge-corpus.git
+	branch = ubuntu_emu
